@@ -18,3 +18,15 @@ input/
 
 .env
 .venv
+
+prompts/batch_action_prompt.py
+prompts/batch_generated_action_prompt.py
+prompts/batch_intent_prompt.py
+
+processors/batch_intent_processor.py
+processors/batch_action_processor.py
+processors/batch_generated.py
+
+main.py
+test_generated_actions.py
+
